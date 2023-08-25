@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.navbar{
+  background-color: #ccc7b9;
+  color: #fff;
+}
+
+.div1, .div2{
+  color: blue;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.text-indent{
+  text-indent: 1em;
+}
